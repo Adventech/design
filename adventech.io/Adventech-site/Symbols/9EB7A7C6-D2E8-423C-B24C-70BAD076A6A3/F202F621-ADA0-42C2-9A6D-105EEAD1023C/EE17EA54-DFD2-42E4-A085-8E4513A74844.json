@@ -65,46 +65,49 @@
                   "UID": 21
                 },
                 {
-                  "UID": 25
+                  "UID": 22
                 }
               ]
             },
-            "NSColor",
-            "MSAttributedStringFontAttribute",
             "NSParagraphStyle",
+            "MSAttributedStringFontAttribute",
             "NSKern",
+            "NSColor",
             {
               "$class": {
                 "UID": 12
               },
-              "NSColorSpace": 1,
-              "NSCustomColorSpace": {
+              "NSTabStops": {
+                "UID": 0
+              },
+              "NSTextBlocks": {
                 "UID": 10
               },
-              "NSRGB": {
-                "data": "1 1 1\u0000",
-                "type": "Buffer"
-              }
+              "NSTextLists": {
+                "UID": 10
+              },
+              "NSWritingDirection": 1
             },
             {
               "$class": {
                 "UID": 11
               },
-              "NSID": 1
+              "NS.objects": [
+              ]
             },
             {
               "$classes": [
-                "NSColorSpace",
+                "NSArray",
                 "NSObject"
               ],
-              "$classname": "NSColorSpace"
+              "$classname": "NSArray"
             },
             {
               "$classes": [
-                "NSColor",
+                "NSParagraphStyle",
                 "NSObject"
               ],
-              "$classname": "NSColor"
+              "$classname": "NSParagraphStyle"
             },
             {
               "$class": {
@@ -154,43 +157,40 @@
               ],
               "$classname": "NSFontDescriptor"
             },
+            0,
+            {
+              "$class": {
+                "UID": 25
+              },
+              "NSColorSpace": 1,
+              "NSCustomColorSpace": {
+                "UID": 23
+              },
+              "NSRGB": {
+                "data": "1 1 1\u0000",
+                "type": "Buffer"
+              }
+            },
             {
               "$class": {
                 "UID": 24
               },
-              "NSTabStops": {
-                "UID": 0
-              },
-              "NSTextBlocks": {
-                "UID": 22
-              },
-              "NSTextLists": {
-                "UID": 22
-              },
-              "NSWritingDirection": 1
-            },
-            {
-              "$class": {
-                "UID": 23
-              },
-              "NS.objects": [
-              ]
+              "NSID": 1
             },
             {
               "$classes": [
-                "NSArray",
+                "NSColorSpace",
                 "NSObject"
               ],
-              "$classname": "NSArray"
+              "$classname": "NSColorSpace"
             },
             {
               "$classes": [
-                "NSParagraphStyle",
+                "NSColor",
                 "NSObject"
               ],
-              "$classname": "NSParagraphStyle"
+              "$classname": "NSColor"
             },
-            0,
             {
               "$classes": [
                 "NSDictionary",
@@ -210,21 +210,21 @@
                   "UID": 28
                 },
                 {
-                  "UID": 8
+                  "UID": 5
                 },
                 {
-                  "UID": 5
+                  "UID": 8
                 }
               ],
               "NS.objects": [
                 {
+                  "UID": 21
+                },
+                {
                   "UID": 29
                 },
                 {
-                  "UID": 30
-                },
-                {
-                  "UID": 25
+                  "UID": 34
                 },
                 {
                   "UID": 35
@@ -234,25 +234,10 @@
             "MSAttributedStringFontAttribute",
             {
               "$class": {
-                "UID": 24
-              },
-              "NSTabStops": {
-                "UID": 0
-              },
-              "NSTextBlocks": {
-                "UID": 22
-              },
-              "NSTextLists": {
-                "UID": 22
-              },
-              "NSWritingDirection": 1
-            },
-            {
-              "$class": {
                 "UID": 20
               },
               "NSFontDescriptorAttributes": {
-                "UID": 31
+                "UID": 30
               }
             },
             {
@@ -261,10 +246,10 @@
               },
               "NS.keys": [
                 {
-                  "UID": 32
+                  "UID": 31
                 },
                 {
-                  "UID": 33
+                  "UID": 32
                 }
               ],
               "NS.objects": [
@@ -272,7 +257,7 @@
                   "UID": 17
                 },
                 {
-                  "UID": 34
+                  "UID": 33
                 }
               ]
             },
@@ -283,9 +268,24 @@
               "$class": {
                 "UID": 12
               },
+              "NSTabStops": {
+                "UID": 0
+              },
+              "NSTextBlocks": {
+                "UID": 10
+              },
+              "NSTextLists": {
+                "UID": 10
+              },
+              "NSWritingDirection": 1
+            },
+            {
+              "$class": {
+                "UID": 25
+              },
               "NSColorSpace": 1,
               "NSCustomColorSpace": {
-                "UID": 10
+                "UID": 23
               },
               "NSRGB": {
                 "data": "1 1 1\u0000",
