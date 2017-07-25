@@ -1,10 +1,19 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "13CB2E2B-AE99-407B-8258-BB1CA19C1E64",
+  "do_objectID": "D2166C23-D540-4C89-811A-A8BE04911E8A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -13,11 +22,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 94,
-    "width": 1440,
-    "x": 0,
-    "y": 0
+    "constrainProportions": true,
+    "height": 30,
+    "width": 30,
+    "x": 1100,
+    "y": 32
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -28,11 +37,11 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "B6F6C28E-0D96-44D1-924E-7DD58DD3CC38"
+      "class": "shapePath",
+      "id": "0FC1A070-47E6-43D4-BAB5-7553BCC64754"
     }
   ],
-  "name": "Rectangle 5",
+  "name": "Shape",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -47,9 +56,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3391794217687075,
-          "green": 0.2640872604861864,
-          "red": 0.2265411798449257
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,
