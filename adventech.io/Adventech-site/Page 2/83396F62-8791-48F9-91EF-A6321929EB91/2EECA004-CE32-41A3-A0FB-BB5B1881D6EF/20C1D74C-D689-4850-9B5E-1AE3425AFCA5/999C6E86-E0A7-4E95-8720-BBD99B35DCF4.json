@@ -68,18 +68,18 @@
                   "UID": 17
                 },
                 {
-                  "UID": 25
+                  "UID": 10
                 },
                 {
-                  "UID": 10
+                  "UID": 25
                 }
               ]
             },
-            "NSUnderline",
+            "NSStrikethrough",
             "NSColor",
             "MSAttributedStringFontAttribute",
+            "NSUnderline",
             "NSParagraphStyle",
-            "NSStrikethrough",
             0,
             {
               "$class": {
@@ -218,7 +218,7 @@
                   "UID": 6
                 },
                 {
-                  "UID": 8
+                  "UID": 9
                 },
                 {
                   "UID": 29
