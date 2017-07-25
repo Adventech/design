@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "CFA169C9-72F0-4085-9C35-5BE3B2E13F0F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 230,
+    "x": 73,
+    "y": 528
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9295522C-861E-423B-A335-14933763AA9F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "62B3C8EB-2DEC-4DCC-8E5D-D87FAD93D402"
+    },
+    {
+      "class": "group",
+      "id": "23F05648-9B8B-4DAC-895B-4BB3FB45A5A7"
+    },
+    {
+      "class": "text",
+      "id": "38D7849C-0814-4AAE-B17D-F2956B4B41C7"
+    }
+  ],
+  "name": "Google",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

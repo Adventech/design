@@ -1,0 +1,88 @@
+{
+  "_class": "group",
+  "do_objectID": "87BFD51C-F7E0-4063-92D2-21C563FB78FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 18,
+    "x": 29,
+    "y": 13
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1AC9CAA9-8629-468F-B1FE-A1995BA5FDD9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B1D6F426-0621-4E71-B80A-29B59D93DFC2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2A00C60B-2300-4419-ADF7-0FA6E05EEDDC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E65E92E1-6937-4B32-AF36-EFEF819D2F83"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9E675655-3B50-423F-B715-7EE2BF4E0055"
+    }
+  ],
+  "name": "login-icon-google",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

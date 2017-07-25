@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "113011C7-61E2-43B7-AB25-20AD145F0E6F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 350,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "88000535-9235-4B5A-B5EC-24089CF0CE01"
+    },
+    {
+      "class": "group",
+      "id": "59D21D73-E02D-430C-BDA8-884E95C99EC1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0726BAE5-B160-495D-B47F-00A1FBA378E9"
+    },
+    {
+      "class": "bitmap",
+      "id": "4EEDBC09-7D49-4868-BF73-B1B7055A014F"
+    },
+    {
+      "class": "bitmap",
+      "id": "36A41B90-F549-4E0F-A035-28788FE7A005"
+    }
+  ],
+  "name": "illustration-bg",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

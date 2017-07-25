@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "911193A1-32A2-4937-8B1B-100C59EF5AFE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 67,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0814DF4C-A4E0-46BA-BFD0-EE4D94265D46"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9B517383-6547-4924-8152-2E2904EA0806"
+    },
+    {
+      "class": "text",
+      "id": "F71A9968-70E3-441E-89B6-91E591F1AE33"
+    },
+    {
+      "class": "text",
+      "id": "C535AB96-9786-459A-A908-D424ECAC7701"
+    },
+    {
+      "class": "text",
+      "id": "0FDFD6AF-E6DF-4F31-87B2-30E23FD01696"
+    }
+  ],
+  "name": "Bar / Navigation",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

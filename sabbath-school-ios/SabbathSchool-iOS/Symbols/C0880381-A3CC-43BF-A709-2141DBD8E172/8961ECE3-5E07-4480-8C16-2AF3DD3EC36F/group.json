@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "8961ECE3-5E07-4480-8C16-2AF3DD3EC36F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 60,
+    "x": 108,
+    "y": 496
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1F8818BB-B93D-4C41-99B5-CCE694E00143"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A61B43ED-F834-434A-A256-E4AF0B128D6F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8CA02DB6-3F8A-4E60-BAA5-5B23C109849B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F5328B74-8B4D-417A-AF91-2C05BE721AB3"
+    },
+    {
+      "class": "text",
+      "id": "AADB5039-C826-48B1-AE3B-79F3C8963D3A"
+    }
+  ],
+  "name": "Safari",
+  "nameIsFixed": false,
+  "originalObjectID": "8961ECE3-5E07-4480-8C16-2AF3DD3EC36F",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

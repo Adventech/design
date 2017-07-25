@@ -1,0 +1,87 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 0,
+  "do_objectID": "C7079115-439A-499E-9308-B000A40DD98E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 216,
+    "width": 375,
+    "x": 850,
+    "y": 2868
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "16BC76B2-3C0F-4C1E-BDF8-CABF6CC96641"
+    },
+    {
+      "class": "group",
+      "id": "54A5B487-4BDA-429A-8EBF-1FEBCCA47FE0"
+    },
+    {
+      "class": "group",
+      "id": "59D27968-E68B-48EF-9EEC-C1375219893F"
+    },
+    {
+      "class": "group",
+      "id": "8690033E-466E-4AAB-9D19-47B00CF46D46"
+    },
+    {
+      "class": "group",
+      "id": "B47A48EF-DD2C-441E-B80D-284B23F89E50"
+    }
+  ],
+  "name": "Keyboard/Dark/Upper",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "38B45067-10F0-44CF-B522-5AB2D611642A",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "FE4CFCDE-434D-42B5-83DE-CCDB90B8BBA7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 18,
+    "x": 1403,
+    "y": 1809
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3FAD011C-BDAE-48F7-8375-673A19C980FD"
+    },
+    {
+      "class": "text",
+      "id": "AF4E99A8-B074-4C47-BF90-74CF0A305969"
+    }
+  ],
+  "name": "Tab Bar Badge",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

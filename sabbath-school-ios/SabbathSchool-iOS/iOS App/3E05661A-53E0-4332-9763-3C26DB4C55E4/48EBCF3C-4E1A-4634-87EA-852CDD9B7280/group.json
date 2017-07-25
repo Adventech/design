@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "48EBCF3C-4E1A-4634-87EA-852CDD9B7280",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 377,
+    "width": 345,
+    "x": 15,
+    "y": 1468
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2510FC99-E67C-4F5C-9B64-DE029F6FB52B"
+    },
+    {
+      "class": "text",
+      "id": "0315710A-0991-4C04-B06F-A34AFA2B02EE"
+    },
+    {
+      "class": "text",
+      "id": "5E229291-1B2E-4505-8B73-BA2DCDF8FEAF"
+    },
+    {
+      "class": "group",
+      "id": "24871D29-B0DD-4DFB-BF33-ACD71589736A"
+    }
+  ],
+  "name": "snnipet",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

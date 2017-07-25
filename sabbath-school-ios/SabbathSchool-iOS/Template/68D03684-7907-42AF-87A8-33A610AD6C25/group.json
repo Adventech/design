@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "68D03684-7907-42AF-87A8-33A610AD6C25",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "81511EB9-A71C-4DB5-ACB1-5BC104DCC3F1",
+    "height": 26,
+    "width": 78,
+    "x": 142,
+    "y": 1052
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DEA464E1-37B8-4D88-AB16-7CEDC9720FFB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A551A49E-C3E2-4E07-83F6-C9A3697EEBFC"
+    },
+    {
+      "class": "text",
+      "id": "03B1CDB7-E3FA-45FC-8AFF-27E17234D7FA"
+    }
+  ],
+  "name": "Autocorrect Balloon",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

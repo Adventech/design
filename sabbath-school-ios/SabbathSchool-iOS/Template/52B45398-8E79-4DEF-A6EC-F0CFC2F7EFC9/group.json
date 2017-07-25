@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "52B45398-8E79-4DEF-A6EC-F0CFC2F7EFC9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 123,
+    "width": 248,
+    "x": 249,
+    "y": 1122
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FEE1ECCB-A501-441A-AF60-D14CCDDCB9C8"
+    },
+    {
+      "class": "group",
+      "id": "C09A4540-90AE-4399-9EFD-575AF2E6B519"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F7AB09F1-902E-4EDB-B289-9E9D0969EF45"
+    },
+    {
+      "class": "group",
+      "id": "93291D33-EDCA-4CD8-9651-5EB303BB9AC4"
+    }
+  ],
+  "name": "3D Touch Home (Left)",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

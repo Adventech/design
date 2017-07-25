@@ -1,0 +1,87 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "E98AEE7A-44FD-4D9E-AE39-4B6D43AA956A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 5.5,
+    "width": 33.5,
+    "x": 6.5,
+    "y": 7.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "FFED8B24-C360-4E16-B62D-E0E8B048AA87"
+    },
+    {
+      "class": "oval",
+      "id": "C172BCBE-92E5-4744-86B3-4BFB53042DC2"
+    },
+    {
+      "class": "oval",
+      "id": "05C88040-4FD0-4E95-B785-23E527ACC6C3"
+    },
+    {
+      "class": "oval",
+      "id": "3AFA701E-2B63-4F8F-BD57-3B81EAE0089F"
+    },
+    {
+      "class": "oval",
+      "id": "EEECCBC0-F10A-4D8E-A70E-11E79C2AACEF"
+    },
+    {
+      "class": "oval",
+      "id": "3E0BF37E-DC83-4159-A577-473277CDFB7A"
+    }
+  ],
+  "name": "Mobile Signal",
+  "nameIsFixed": true,
+  "originalObjectID": "E98AEE7A-44FD-4D9E-AE39-4B6D43AA956A",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.01176470588235294,
+          "green": 0.01176470588235294,
+          "red": 0.01176470588235294
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

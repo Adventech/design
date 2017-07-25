@@ -1,0 +1,73 @@
+{
+  "_class": "rectangle",
+  "booleanOperation": -1,
+  "do_objectID": "0CAE71FE-8784-4B5E-92FA-899062BD39F8",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fixedRadius": 0,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 10.57706976203429,
+    "width": 6.064178931889566,
+    "x": 0,
+    "y": 0
+  },
+  "hasConvertedToNewRoundCorners": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "path": {
+    "_class": "path",
+    "isClosed": true,
+    "pointRadiusBehaviour": 0,
+    "points": [
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 1,
+        "curveFrom": "{0.010583269995041849, 0.3187080496843806}",
+        "curveMode": 1,
+        "curveTo": "{0.010583269995041831, 0.6811272659301536}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{-0.071868122949623373, 0.49991765780726855}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 1,
+        "curveFrom": "{1.000000001397704, -0.04371116681977788}",
+        "curveMode": 1,
+        "curveTo": "{1.000000001397704, -0.04371116681977788}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{1.000000001397704, -0.04371116681977788}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 1,
+        "curveFrom": "{0.99999998533105061, 1.043546482175927}",
+        "curveMode": 1,
+        "curveTo": "{0.99999998533105061, 1.043546482175927}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.99999998533105061, 1.043546482175927}"
+      }
+    ]
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
+}
