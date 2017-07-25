@@ -16,8 +16,8 @@
     "constrainProportions": false,
     "height": 274,
     "width": 486,
-    "x": 0,
-    "y": 0
+    "x": 705,
+    "y": 1323
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -5008,8 +5008,8 @@
       "id": "F0997490-F983-4FF5-AF3A-953460B6F100"
     }
   ],
-  "name": "Shape",
-  "nameIsFixed": false,
+  "name": "world-map",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
