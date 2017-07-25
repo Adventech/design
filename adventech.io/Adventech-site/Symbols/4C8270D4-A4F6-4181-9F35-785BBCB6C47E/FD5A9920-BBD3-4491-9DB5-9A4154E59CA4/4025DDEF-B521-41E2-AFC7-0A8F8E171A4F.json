@@ -53,26 +53,26 @@
                 }
               ]
             },
-            "NSColor",
-            "MSAttributedStringFontAttribute",
             "NSParagraphStyle",
+            "MSAttributedStringFontAttribute",
+            "NSColor",
             "NSKern",
             {
               "$class": {
                 "UID": 9
               },
-              "NSColorSpace": 1,
-              "NSRGB": {
-                "data": "0.7333333333 0.7333333333 0.7333333333\u0000",
-                "type": "Buffer"
+              "NSAlignment": 2,
+              "NSTabStops": {
+                "UID": 0
               }
             },
             {
               "$classes": [
-                "NSColor",
+                "NSMutableParagraphStyle",
+                "NSParagraphStyle",
                 "NSObject"
               ],
-              "$classname": "NSColor"
+              "$classname": "NSMutableParagraphStyle"
             },
             {
               "$class": {
@@ -126,18 +126,18 @@
               "$class": {
                 "UID": 19
               },
-              "NSAlignment": 2,
-              "NSTabStops": {
-                "UID": 0
+              "NSColorSpace": 1,
+              "NSRGB": {
+                "data": "0.7333333333 0.7333333333 0.7333333333\u0000",
+                "type": "Buffer"
               }
             },
             {
               "$classes": [
-                "NSMutableParagraphStyle",
-                "NSParagraphStyle",
+                "NSColor",
                 "NSObject"
               ],
-              "$classname": "NSMutableParagraphStyle"
+              "$classname": "NSColor"
             },
             0,
             {

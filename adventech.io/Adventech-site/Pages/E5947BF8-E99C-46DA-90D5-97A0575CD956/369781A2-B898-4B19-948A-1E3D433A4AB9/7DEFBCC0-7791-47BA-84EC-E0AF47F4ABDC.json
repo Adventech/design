@@ -10,7 +10,10 @@
             "$null",
             {
               "$class": {
-                "UID": 26
+                "UID": 39
+              },
+              "NSAttributeInfo": {
+                "UID": 37
               },
               "NSAttributes": {
                 "UID": 3
@@ -19,15 +22,25 @@
                 "UID": 2
               }
             },
-            "Function",
+            "Made with ♥︎ by Adventech",
             {
               "$class": {
-                "UID": 25
+                "UID": 36
               },
-              "NS.keys": [
+              "NS.objects": [
                 {
                   "UID": 4
                 },
+                {
+                  "UID": 27
+                }
+              ]
+            },
+            {
+              "$class": {
+                "UID": 26
+              },
+              "NS.keys": [
                 {
                   "UID": 5
                 },
@@ -36,20 +49,23 @@
                 },
                 {
                   "UID": 7
+                },
+                {
+                  "UID": 8
                 }
               ],
               "NS.objects": [
                 {
-                  "UID": 8
+                  "UID": 9
                 },
                 {
-                  "UID": 12
-                },
-                {
-                  "UID": 20
+                  "UID": 13
                 },
                 {
                   "UID": 21
+                },
+                {
+                  "UID": 22
                 }
               ]
             },
@@ -59,22 +75,22 @@
             "NSColor",
             {
               "$class": {
-                "UID": 11
+                "UID": 12
               },
               "NSTabStops": {
                 "UID": 0
               },
               "NSTextBlocks": {
-                "UID": 9
+                "UID": 10
               },
               "NSTextLists": {
-                "UID": 9
+                "UID": 10
               },
               "NSWritingDirection": 1
             },
             {
               "$class": {
-                "UID": 10
+                "UID": 11
               },
               "NS.objects": [
               ]
@@ -95,30 +111,30 @@
             },
             {
               "$class": {
-                "UID": 19
+                "UID": 20
               },
               "NSFontDescriptorAttributes": {
-                "UID": 13
+                "UID": 14
               }
             },
             {
               "$class": {
-                "UID": 18
+                "UID": 19
               },
               "NS.keys": [
                 {
-                  "UID": 14
+                  "UID": 15
                 },
                 {
-                  "UID": 15
+                  "UID": 16
                 }
               ],
               "NS.objects": [
                 {
-                  "UID": 16
+                  "UID": 17
                 },
                 {
-                  "UID": 17
+                  "UID": 18
                 }
               ]
             },
@@ -144,20 +160,20 @@
             0,
             {
               "$class": {
-                "UID": 24
+                "UID": 25
               },
               "NSColorSpace": 1,
               "NSCustomColorSpace": {
-                "UID": 22
+                "UID": 23
               },
               "NSRGB": {
-                "data": "0.3176470588 0.3176470588 0.3176470588\u0000",
+                "data": "1 1 1\u0000",
                 "type": "Buffer"
               }
             },
             {
               "$class": {
-                "UID": 23
+                "UID": 24
               },
               "NSID": 1
             },
@@ -183,6 +199,125 @@
               "$classname": "NSDictionary"
             },
             {
+              "$class": {
+                "UID": 26
+              },
+              "NS.keys": [
+                {
+                  "UID": 7
+                },
+                {
+                  "UID": 28
+                },
+                {
+                  "UID": 5
+                },
+                {
+                  "UID": 8
+                }
+              ],
+              "NS.objects": [
+                {
+                  "UID": 21
+                },
+                {
+                  "UID": 29
+                },
+                {
+                  "UID": 34
+                },
+                {
+                  "UID": 35
+                }
+              ]
+            },
+            "MSAttributedStringFontAttribute",
+            {
+              "$class": {
+                "UID": 20
+              },
+              "NSFontDescriptorAttributes": {
+                "UID": 30
+              }
+            },
+            {
+              "$class": {
+                "UID": 19
+              },
+              "NS.keys": [
+                {
+                  "UID": 31
+                },
+                {
+                  "UID": 32
+                }
+              ],
+              "NS.objects": [
+                {
+                  "UID": 17
+                },
+                {
+                  "UID": 33
+                }
+              ]
+            },
+            "NSFontSizeAttribute",
+            "NSFontNameAttribute",
+            "HiraginoSans-W3",
+            {
+              "$class": {
+                "UID": 12
+              },
+              "NSTabStops": {
+                "UID": 0
+              },
+              "NSTextBlocks": {
+                "UID": 10
+              },
+              "NSTextLists": {
+                "UID": 10
+              },
+              "NSWritingDirection": 1
+            },
+            {
+              "$class": {
+                "UID": 25
+              },
+              "NSColorSpace": 1,
+              "NSCustomColorSpace": {
+                "UID": 23
+              },
+              "NSRGB": {
+                "data": "1 1 1\u0000",
+                "type": "Buffer"
+              }
+            },
+            {
+              "$classes": [
+                "NSMutableArray",
+                "NSArray",
+                "NSObject"
+              ],
+              "$classname": "NSMutableArray"
+            },
+            {
+              "$class": {
+                "UID": 38
+              },
+              "NS.data": {
+                "data": "\n\u0000\u0002\u0001\r\u0000",
+                "type": "Buffer"
+              }
+            },
+            {
+              "$classes": [
+                "NSMutableData",
+                "NSData",
+                "NSObject"
+              ],
+              "$classname": "NSMutableData"
+            },
+            {
               "$classes": [
                 "NSAttributedString",
                 "NSObject"
@@ -201,7 +336,7 @@
     }
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "9E7B35DA-CF4D-41A8-BBAF-44702460E557",
+  "do_objectID": "7DEFBCC0-7791-47BA-84EC-E0AF47F4ABDC",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -216,11 +351,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 18,
-    "width": 212,
-    "x": 0,
-    "y": 247
+    "width": 185,
+    "x": 250,
+    "y": 27
   },
-  "glyphBounds": "{{1, 4}, {57, 12}}",
+  "glyphBounds": "{{1, 2}, {183, 16}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -228,7 +363,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Function",
+  "name": "Made with ♥︎ by Adve",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -321,7 +456,7 @@
                     "UID": 2
                   },
                   "NSRGB": {
-                    "data": "0.3176470588 0.3176470588 0.3176470588\u0000",
+                    "data": "1 1 1\u0000",
                     "type": "Buffer"
                   }
                 },
@@ -411,5 +546,5 @@
       }
     }
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

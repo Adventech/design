@@ -49,30 +49,30 @@
                   "UID": 18
                 },
                 {
-                  "UID": 19
+                  "UID": 20
                 }
               ]
             },
-            "NSParagraphStyle",
-            "MSAttributedStringFontAttribute",
-            "NSKern",
             "NSColor",
+            "MSAttributedStringFontAttribute",
+            "NSParagraphStyle",
+            "NSKern",
             {
               "$class": {
                 "UID": 9
               },
-              "NSAlignment": 2,
-              "NSTabStops": {
-                "UID": 0
+              "NSColorSpace": 1,
+              "NSRGB": {
+                "data": "0.7333333333 0.7333333333 0.7333333333\u0000",
+                "type": "Buffer"
               }
             },
             {
               "$classes": [
-                "NSMutableParagraphStyle",
-                "NSParagraphStyle",
+                "NSColor",
                 "NSObject"
               ],
-              "$classname": "NSMutableParagraphStyle"
+              "$classname": "NSColor"
             },
             {
               "$class": {
@@ -122,24 +122,24 @@
               ],
               "$classname": "NSFontDescriptor"
             },
-            -0.38,
             {
               "$class": {
-                "UID": 20
+                "UID": 19
               },
-              "NSColorSpace": 1,
-              "NSRGB": {
-                "data": "0.7333333333 0.7333333333 0.7333333333\u0000",
-                "type": "Buffer"
+              "NSAlignment": 2,
+              "NSTabStops": {
+                "UID": 0
               }
             },
             {
               "$classes": [
-                "NSColor",
+                "NSMutableParagraphStyle",
+                "NSParagraphStyle",
                 "NSObject"
               ],
-              "$classname": "NSColor"
+              "$classname": "NSMutableParagraphStyle"
             },
+            -0.38,
             {
               "$classes": [
                 "NSDictionary",
