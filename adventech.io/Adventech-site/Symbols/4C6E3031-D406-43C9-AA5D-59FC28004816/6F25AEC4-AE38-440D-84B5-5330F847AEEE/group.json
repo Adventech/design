@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "6F25AEC4-AE38-440D-84B5-5330F847AEEE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 50,
+    "x": 219,
+    "y": 148
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DB25E9C1-4C4C-4186-A4D5-31F93324316E"
+    },
+    {
+      "class": "text",
+      "id": "5DDFC802-946C-434F-A04B-B80511133EA2"
+    }
+  ],
+  "name": "Notes / Callout SE",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

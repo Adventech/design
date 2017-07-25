@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "35E91720-F7D2-4841-88F6-0AAA0465C85A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 127,
+    "x": 60,
+    "y": 682
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1D386493-031A-4B5C-BF59-BD2FBEE4A0B6"
+    },
+    {
+      "class": "text",
+      "id": "EE45DB32-EDD1-4A0E-9B98-A290CE37D238"
+    }
+  ],
+  "name": "Form / Radiobutton (Unchecked)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

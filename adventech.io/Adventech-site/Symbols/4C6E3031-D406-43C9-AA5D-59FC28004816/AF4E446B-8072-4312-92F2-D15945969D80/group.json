@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "AF4E446B-8072-4312-92F2-D15945969D80",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 50,
+    "x": 149,
+    "y": 78
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B82CA146-8F74-4A77-BE2A-A437DBF8C2E4"
+    },
+    {
+      "class": "text",
+      "id": "71385BEA-8EC7-4CDD-AED3-A9DAAEC2EB45"
+    }
+  ],
+  "name": "Notes / Callout NW",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

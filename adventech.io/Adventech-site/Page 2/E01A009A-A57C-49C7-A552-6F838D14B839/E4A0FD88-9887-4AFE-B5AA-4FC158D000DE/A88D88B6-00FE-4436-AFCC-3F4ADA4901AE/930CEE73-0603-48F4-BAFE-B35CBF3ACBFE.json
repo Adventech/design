@@ -1,0 +1,141 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "do_objectID": "930CEE73-0603-48F4-BAFE-B35CBF3ACBFE",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 4.861431460913252,
+    "width": 4.859999999999928,
+    "x": 209.31534,
+    "y": 163.3538199496114
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "path": {
+    "_class": "path",
+    "isClosed": true,
+    "pointRadiusBehaviour": 1,
+    "points": [
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.015999999999998238, 0.025999999999996248}",
+        "curveMode": 1,
+        "curveTo": "{0.015999999999998238, 0.025999999999996248}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.015999999999998238, 0.025999999999996248}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.027999999999998693, 0.019999999999996021}",
+        "curveMode": 1,
+        "curveTo": "{0.027999999999998693, 0.019999999999996021}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.027999999999998693, 0.019999999999996021}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.03399999999999892, 0.013999999999995794}",
+        "curveMode": 1,
+        "curveTo": "{0.03399999999999892, 0.013999999999995794}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.03399999999999892, 0.013999999999995794}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.036000000000001364, 0.0049999999999954525}",
+        "curveMode": 1,
+        "curveTo": "{0.036000000000001364, 0.0049999999999954525}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.036000000000001364, 0.0049999999999954525}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.032000000000003581, 0.0010000000000047748}",
+        "curveMode": 1,
+        "curveTo": "{0.032000000000003581, 0.0010000000000047748}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.032000000000003581, 0.0010000000000047748}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.019000000000005457, 0}",
+        "curveMode": 1,
+        "curveTo": "{0.019000000000005457, 0}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.019000000000005457, 0}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.0080000000000026716, 0.010000000000005116}",
+        "curveMode": 1,
+        "curveTo": "{0.0080000000000026716, 0.010000000000005116}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.0080000000000026716, 0.010000000000005116}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0, 0.031000000000005912}",
+        "curveMode": 1,
+        "curveTo": "{0, 0.031000000000005912}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0, 0.031000000000005912}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.0030000000000001137, 0.034999999999996589}",
+        "curveMode": 1,
+        "curveTo": "{0.0030000000000001137, 0.034999999999996589}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.0030000000000001137, 0.034999999999996589}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.015999999999998238, 0.037000000000006139}",
+        "curveMode": 1,
+        "curveTo": "{0.015999999999998238, 0.037000000000006139}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.015999999999998238, 0.037000000000006139}"
+      }
+    ]
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
+}

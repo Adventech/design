@@ -1,0 +1,68 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "BB68AFC0-15F1-4681-9E3B-6B7E79E3CCFC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 60,
+    "width": 50,
+    "x": 4.082778559677537e-10,
+    "y": 4.08270750540396e-10
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "F163CF3A-8602-4274-887A-874512D9658A"
+    }
+  ],
+  "name": "Callout Background",
+  "nameIsFixed": true,
+  "originalObjectID": "E37DE0A3-D722-4F15-A0A0-3072EE1929DF",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1385422945022583,
+          "green": 0.6503673195838928,
+          "red": 0.9617109894752502
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "66EF33A0-2B8C-4125-8428-6F0FC410D6BE",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

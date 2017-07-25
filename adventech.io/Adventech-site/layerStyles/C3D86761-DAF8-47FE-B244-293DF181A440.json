@@ -1,0 +1,68 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "C3D86761-DAF8-47FE-B244-293DF181A440",
+  "name": "Error Highlight",
+  "value": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1066960170865059,
+          "green": 0.007513228338211775,
+          "red": 0.816203773021698
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.9999365210533142,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 2,
+        "color": {
+          "_class": "color",
+          "alpha": 0.7040441176470589,
+          "blue": 0.1066960170865062,
+          "green": 0.00751322833821177,
+          "red": 0.816203773021698
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "sharedObjectID": "C3D86761-DAF8-47FE-B244-293DF181A440",
+    "startDecorationType": 0
+  }
+}

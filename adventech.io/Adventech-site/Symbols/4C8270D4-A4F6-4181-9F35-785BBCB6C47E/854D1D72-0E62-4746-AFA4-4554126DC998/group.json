@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "854D1D72-0E62-4746-AFA4-4554126DC998",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 146,
+    "width": 300,
+    "x": 710,
+    "y": 230
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "47DCA76B-798F-4299-9788-40D5C6818EBF"
+    },
+    {
+      "class": "text",
+      "id": "5E0B90F3-A435-4FE2-BE11-B7325D337005"
+    }
+  ],
+  "name": "Form / Textarea (Focus)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

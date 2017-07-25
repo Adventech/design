@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "52E55083-458B-49C1-9E04-B963C8C5FA5D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 60,
+    "x": 457,
+    "y": 109
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9AA8E464-05B0-4F1C-B690-806CA62960EF"
+    },
+    {
+      "class": "text",
+      "id": "75ADBDCC-1C1D-4783-A60B-C70F8FA463DB"
+    }
+  ],
+  "name": "Notes / Callout E",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

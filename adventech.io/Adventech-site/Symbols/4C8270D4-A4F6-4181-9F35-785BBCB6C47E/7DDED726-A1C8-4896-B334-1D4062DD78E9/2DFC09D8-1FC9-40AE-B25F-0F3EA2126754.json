@@ -1,0 +1,336 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": [
+        {
+          "$archiver": "NSKeyedArchiver",
+          "$objects": [
+            "$null",
+            {
+              "$class": {
+                "UID": 20
+              },
+              "NSAttributes": {
+                "UID": 3
+              },
+              "NSString": {
+                "UID": 2
+              }
+            },
+            "Text area content (Disabled)",
+            {
+              "$class": {
+                "UID": 19
+              },
+              "NS.keys": [
+                {
+                  "UID": 4
+                },
+                {
+                  "UID": 5
+                },
+                {
+                  "UID": 6
+                }
+              ],
+              "NS.objects": [
+                {
+                  "UID": 7
+                },
+                {
+                  "UID": 9
+                },
+                {
+                  "UID": 11
+                }
+              ]
+            },
+            "NSColor",
+            "NSParagraphStyle",
+            "MSAttributedStringFontAttribute",
+            {
+              "$class": {
+                "UID": 8
+              },
+              "NSColorSpace": 1,
+              "NSRGB": {
+                "data": "0.7333333333 0.7333333333 0.7333333333\u0000",
+                "type": "Buffer"
+              }
+            },
+            {
+              "$classes": [
+                "NSColor",
+                "NSObject"
+              ],
+              "$classname": "NSColor"
+            },
+            {
+              "$class": {
+                "UID": 10
+              },
+              "NSAlignment": 4,
+              "NSTabStops": {
+                "UID": 0
+              }
+            },
+            {
+              "$classes": [
+                "NSParagraphStyle",
+                "NSObject"
+              ],
+              "$classname": "NSParagraphStyle"
+            },
+            {
+              "$class": {
+                "UID": 18
+              },
+              "NSFontDescriptorAttributes": {
+                "UID": 12
+              }
+            },
+            {
+              "$class": {
+                "UID": 17
+              },
+              "NS.keys": [
+                {
+                  "UID": 13
+                },
+                {
+                  "UID": 14
+                }
+              ],
+              "NS.objects": [
+                {
+                  "UID": 15
+                },
+                {
+                  "UID": 16
+                }
+              ]
+            },
+            "NSFontSizeAttribute",
+            "NSFontNameAttribute",
+            14,
+            "AvenirNext-Regular",
+            {
+              "$classes": [
+                "NSMutableDictionary",
+                "NSDictionary",
+                "NSObject"
+              ],
+              "$classname": "NSMutableDictionary"
+            },
+            {
+              "$classes": [
+                "NSFontDescriptor",
+                "NSObject"
+              ],
+              "$classname": "NSFontDescriptor"
+            },
+            {
+              "$classes": [
+                "NSDictionary",
+                "NSObject"
+              ],
+              "$classname": "NSDictionary"
+            },
+            {
+              "$classes": [
+                "NSAttributedString",
+                "NSObject"
+              ],
+              "$classname": "NSAttributedString"
+            }
+          ],
+          "$top": {
+            "root": {
+              "UID": 1
+            }
+          },
+          "$version": 100000
+        }
+      ]
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "2DFC09D8-1FC9-40AE-B25F-0F3EA2126754",
+  "dontSynchroniseWithSymbol": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 278,
+    "x": 11,
+    "y": 8
+  },
+  "glyphBounds": "{{0, 0}, {278, 19}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 0,
+  "name": "Text area content (D",
+  "nameIsFixed": false,
+  "originalObjectID": "837A3A14-821B-402B-B7C9-89121C284542",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "D6205E2D-54D4-4A5C-A7E4-E1E62615B61D",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringFontAttribute": {
+          "_archive": [
+            {
+              "$archiver": "NSKeyedArchiver",
+              "$objects": [
+                "$null",
+                {
+                  "$class": {
+                    "UID": 8
+                  },
+                  "NSFontDescriptorAttributes": {
+                    "UID": 2
+                  }
+                },
+                {
+                  "$class": {
+                    "UID": 7
+                  },
+                  "NS.keys": [
+                    {
+                      "UID": 3
+                    },
+                    {
+                      "UID": 4
+                    }
+                  ],
+                  "NS.objects": [
+                    {
+                      "UID": 5
+                    },
+                    {
+                      "UID": 6
+                    }
+                  ]
+                },
+                "NSFontSizeAttribute",
+                "NSFontNameAttribute",
+                14,
+                "AvenirNext-Regular",
+                {
+                  "$classes": [
+                    "NSMutableDictionary",
+                    "NSDictionary",
+                    "NSObject"
+                  ],
+                  "$classname": "NSMutableDictionary"
+                },
+                {
+                  "$classes": [
+                    "NSFontDescriptor",
+                    "NSObject"
+                  ],
+                  "$classname": "NSFontDescriptor"
+                }
+              ],
+              "$top": {
+                "root": {
+                  "UID": 1
+                }
+              },
+              "$version": 100000
+            }
+          ]
+        },
+        "NSColor": {
+          "_archive": [
+            {
+              "$archiver": "NSKeyedArchiver",
+              "$objects": [
+                "$null",
+                {
+                  "$class": {
+                    "UID": 2
+                  },
+                  "NSColorSpace": 1,
+                  "NSRGB": {
+                    "data": "0.7333333333 0.7333333333 0.7333333333\u0000",
+                    "type": "Buffer"
+                  }
+                },
+                {
+                  "$classes": [
+                    "NSColor",
+                    "NSObject"
+                  ],
+                  "$classname": "NSColor"
+                }
+              ],
+              "$top": {
+                "root": {
+                  "UID": 1
+                }
+              },
+              "$version": 100000
+            }
+          ]
+        },
+        "NSParagraphStyle": {
+          "_archive": [
+            {
+              "$archiver": "NSKeyedArchiver",
+              "$objects": [
+                "$null",
+                {
+                  "$class": {
+                    "UID": 2
+                  },
+                  "NSAlignment": 4,
+                  "NSTabStops": {
+                    "UID": 0
+                  }
+                },
+                {
+                  "$classes": [
+                    "NSParagraphStyle",
+                    "NSObject"
+                  ],
+                  "$classname": "NSParagraphStyle"
+                }
+              ],
+              "$top": {
+                "root": {
+                  "UID": 1
+                }
+              },
+              "$version": 100000
+            }
+          ]
+        }
+      }
+    }
+  },
+  "textBehaviour": 1
+}

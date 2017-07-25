@@ -1,0 +1,256 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "6F85372E-865F-434F-9F08-D9DAF9FBA4E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 26.49938229793257,
+    "width": 200.4155790784559,
+    "x": 49.26027397260282,
+    "y": 18.51627408020803
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "DD704158-BB83-41A5-A5A5-F53265F404E7"
+    },
+    {
+      "class": "shapePath",
+      "id": "3333C256-DA70-4F4C-955E-7B46FE5F3596"
+    },
+    {
+      "class": "shapePath",
+      "id": "13067F5E-7CB3-4B0D-ABBB-31C737569761"
+    },
+    {
+      "class": "shapePath",
+      "id": "CF1023DE-2C16-4D30-B173-7D9C6CA76664"
+    },
+    {
+      "class": "shapePath",
+      "id": "DCC6B503-8BAF-4C58-8CC9-39C49A6D7CFD"
+    },
+    {
+      "class": "shapePath",
+      "id": "3ADEDC83-7A4A-433F-BB14-3BE3BBE91B33"
+    },
+    {
+      "class": "shapePath",
+      "id": "F91112F1-AA36-4166-9379-99CFA920A1F4"
+    },
+    {
+      "class": "shapePath",
+      "id": "E0E0058C-5F28-4803-A52B-A4E3A724343F"
+    },
+    {
+      "class": "shapePath",
+      "id": "1A14B05A-9856-418A-8F16-D62FEE593792"
+    },
+    {
+      "class": "shapePath",
+      "id": "5E85CB32-AE80-4836-AC70-BE3A49CE9596"
+    },
+    {
+      "class": "shapePath",
+      "id": "B597D505-0D8A-426F-B074-37CFE4CC5F55"
+    }
+  ],
+  "name": "adventech",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2313725490196079,
+          "green": 0.2313725490196079,
+          "red": 0.2313725490196079
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringFontAttribute": {
+          "_archive": [
+            {
+              "$archiver": "NSKeyedArchiver",
+              "$objects": [
+                "$null",
+                {
+                  "$class": {
+                    "UID": 8
+                  },
+                  "NSFontDescriptorAttributes": {
+                    "UID": 2
+                  }
+                },
+                {
+                  "$class": {
+                    "UID": 7
+                  },
+                  "NS.keys": [
+                    {
+                      "UID": 3
+                    },
+                    {
+                      "UID": 4
+                    }
+                  ],
+                  "NS.objects": [
+                    {
+                      "UID": 5
+                    },
+                    {
+                      "UID": 6
+                    }
+                  ]
+                },
+                "NSFontSizeAttribute",
+                "NSFontNameAttribute",
+                210,
+                "Code-Pro-Light",
+                {
+                  "$classes": [
+                    "NSMutableDictionary",
+                    "NSDictionary",
+                    "NSObject"
+                  ],
+                  "$classname": "NSMutableDictionary"
+                },
+                {
+                  "$classes": [
+                    "NSFontDescriptor",
+                    "NSObject"
+                  ],
+                  "$classname": "NSFontDescriptor"
+                }
+              ],
+              "$top": {
+                "root": {
+                  "UID": 1
+                }
+              },
+              "$version": 100000
+            }
+          ]
+        },
+        "NSColor": {
+          "_archive": [
+            {
+              "$archiver": "NSKeyedArchiver",
+              "$objects": [
+                "$null",
+                {
+                  "$class": {
+                    "UID": 4
+                  },
+                  "NSColorSpace": 1,
+                  "NSCustomColorSpace": {
+                    "UID": 2
+                  },
+                  "NSRGB": {
+                    "data": "0.231372549 0.231372549 0.231372549\u0000",
+                    "type": "Buffer"
+                  }
+                },
+                {
+                  "$class": {
+                    "UID": 3
+                  },
+                  "NSID": 1
+                },
+                {
+                  "$classes": [
+                    "NSColorSpace",
+                    "NSObject"
+                  ],
+                  "$classname": "NSColorSpace"
+                },
+                {
+                  "$classes": [
+                    "NSColor",
+                    "NSObject"
+                  ],
+                  "$classname": "NSColor"
+                }
+              ],
+              "$top": {
+                "root": {
+                  "UID": 1
+                }
+              },
+              "$version": 100000
+            }
+          ]
+        },
+        "NSParagraphStyle": {
+          "_archive": [
+            {
+              "$archiver": "NSKeyedArchiver",
+              "$objects": [
+                "$null",
+                {
+                  "$class": {
+                    "UID": 2
+                  },
+                  "NSAlignment": 4,
+                  "NSTabStops": {
+                    "UID": 0
+                  }
+                },
+                {
+                  "$classes": [
+                    "NSParagraphStyle",
+                    "NSObject"
+                  ],
+                  "$classname": "NSParagraphStyle"
+                }
+              ],
+              "$top": {
+                "root": {
+                  "UID": 1
+                }
+              },
+              "$version": 100000
+            }
+          ]
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}
