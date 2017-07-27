@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "0E852BA9-98C5-4402-B4DD-8A7AECF7F7D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 57,
+    "width": 200,
+    "x": 504,
+    "y": 400
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9ED2BB32-41C4-4B4E-A069-2C4103778A49"
+    },
+    {
+      "class": "group",
+      "id": "F0145510-883E-4B9C-84A8-4129FDB3DD1B"
+    },
+    {
+      "class": "group",
+      "id": "DEDA828B-6823-4C67-BC04-1A53DD22291D"
+    },
+    {
+      "class": "group",
+      "id": "76968803-E43F-4651-9F44-6D941CB50476"
+    }
+  ],
+  "name": "itunes-badge",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

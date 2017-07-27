@@ -29,7 +29,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1792,
+    "height": 3629,
     "width": 1440,
     "x": 2769,
     "y": -189
@@ -41,7 +41,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -54,7 +54,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -63,6 +63,70 @@
     {
       "class": "symbolInstance",
       "id": "567874F0-6482-4A54-BD9A-0627F3632C88"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B471F54A-5513-4B6B-BA21-69E68059DE3F"
+    },
+    {
+      "class": "group",
+      "id": "0E852BA9-98C5-4402-B4DD-8A7AECF7F7D6"
+    },
+    {
+      "class": "group",
+      "id": "02D0616E-2B64-46FB-9315-91320859FF7B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "20D5A39F-5617-4692-8979-1363803ED4ED"
+    },
+    {
+      "class": "group",
+      "id": "0F51DD11-9430-403C-A1CD-79A2F13D602C"
+    },
+    {
+      "class": "group",
+      "id": "5821F62B-73C8-4E57-A00A-8437D48D41E4"
+    },
+    {
+      "class": "group",
+      "id": "0C84E742-7C38-40ED-95E1-B05A71E4D817"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "24E03322-7344-4F91-BFB3-2D17EFD528A8"
+    },
+    {
+      "class": "text",
+      "id": "48EE0A4E-20B1-41AB-9800-8E103D159DC5"
+    },
+    {
+      "class": "text",
+      "id": "FADD091C-8272-4263-92D7-1BBDE2DF91E0"
+    },
+    {
+      "class": "text",
+      "id": "9A0CB941-9FE2-4954-B8BD-E3BDD54F6E99"
+    },
+    {
+      "class": "text",
+      "id": "C02D5F25-3525-4E2C-9DB8-B02D4585BC83"
+    },
+    {
+      "class": "text",
+      "id": "3258278B-0C27-45A5-BBCE-10770916C370"
+    },
+    {
+      "class": "text",
+      "id": "217788D1-AE32-406E-A4E2-422E9DF8BE7F"
+    },
+    {
+      "class": "text",
+      "id": "DBFA2176-247C-41BD-ABCF-02EDB56D82EB"
+    },
+    {
+      "class": "text",
+      "id": "C87F90C5-7906-4FE7-AE86-22BA29EC60B1"
     }
   ],
   "layout": {
