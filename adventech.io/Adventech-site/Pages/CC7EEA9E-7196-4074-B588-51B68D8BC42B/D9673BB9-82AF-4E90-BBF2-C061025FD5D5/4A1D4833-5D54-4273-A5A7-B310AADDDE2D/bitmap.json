@@ -1,6 +1,7 @@
 {
-  "_class": "group",
-  "do_objectID": "F45FC917-DE7A-4657-BC7D-27EECF9FD817",
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "4A1D4833-5D54-4273-A5A7-B310AADDDE2D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -10,28 +11,29 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 20,
-    "width": 17,
+    "constrainProportions": true,
+    "height": 631,
+    "width": 310,
     "x": 0,
     "y": 0
   },
-  "hasClickThrough": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/f52cae231797e3f366ba201009b72b7bee4afebb",
+    "_ref_class": "MSImageData"
+  },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "945C0FC7-51D6-41BF-9B3B-7BE30CF5AFBE"
-    }
-  ],
-  "name": "apple-logo-white",
+  "name": "iphone-7-frame-large_2x",
   "nameIsFixed": false,
+  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
+  "nineSliceScale": "{0, 0}",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

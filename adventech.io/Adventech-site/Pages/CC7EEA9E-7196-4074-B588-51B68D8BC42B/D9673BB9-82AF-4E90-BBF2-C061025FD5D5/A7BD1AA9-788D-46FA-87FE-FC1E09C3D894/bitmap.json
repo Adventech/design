@@ -1,6 +1,7 @@
 {
-  "_class": "group",
-  "do_objectID": "771850D9-9A90-4E47-A3FE-04100F3D056D",
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "A7BD1AA9-788D-46FA-87FE-FC1E09C3D894",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -10,28 +11,29 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
-    "width": 17,
-    "x": 0,
-    "y": 2
+    "height": 475,
+    "width": 267,
+    "x": 21.5,
+    "y": 78
   },
-  "hasClickThrough": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/eaaf90a8296907b3f0bf44627e448dda7187bec6",
+    "_ref_class": "MSImageData"
+  },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "7FF67E59-95E4-408F-8A17-4AE7FF56C6C8"
-    }
-  ],
-  "name": "android-logo-white",
+  "name": "IMG_5214",
   "nameIsFixed": false,
+  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
+  "nineSliceScale": "{0, 0}",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
