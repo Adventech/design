@@ -15,7 +15,7 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "",
+        "name": "@2x",
         "namingScheme": 0,
         "scale": 2,
         "visibleScaleType": 0
@@ -29,7 +29,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2264,
+    "height": 2544,
     "width": 1440,
     "x": 1229,
     "y": -189
@@ -122,6 +122,10 @@
     },
     {
       "class": "symbolInstance",
+      "id": "643AE4E4-B1EB-4587-B422-3C1DEC0E49C0"
+    },
+    {
+      "class": "symbolInstance",
       "id": "C782A6A4-E3A8-49CF-A7AD-F6E6E411B328"
     },
     {
@@ -131,6 +135,10 @@
     {
       "class": "group",
       "id": "3B4A2D0B-ADA3-4E80-933D-F4B18A44A77C"
+    },
+    {
+      "class": "group",
+      "id": "FC8CF7B6-4745-401E-BFBD-B415AA7E881D"
     },
     {
       "class": "bitmap",
