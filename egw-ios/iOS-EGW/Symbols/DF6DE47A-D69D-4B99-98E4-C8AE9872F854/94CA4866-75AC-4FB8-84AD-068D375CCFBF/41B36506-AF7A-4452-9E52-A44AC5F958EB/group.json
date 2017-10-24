@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "41B36506-AF7A-4452-9E52-A44AC5F958EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 105,
+    "x": 524,
+    "y": 6
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9DF27B78-AFB4-4426-88F2-B48DE8949A7D"
+    },
+    {
+      "class": "text",
+      "id": "702839B1-F9DE-46F9-A3E0-2EAFE524B0CF"
+    }
+  ],
+  "name": "Charge",
+  "nameIsFixed": true,
+  "originalObjectID": "41B36506-AF7A-4452-9E52-A44AC5F958EB",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

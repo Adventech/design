@@ -1,0 +1,137 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "3F0AD0E6-039E-4939-AEC1-6E70E3FD0AE1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 47,
+    "width": 47,
+    "x": 426,
+    "y": 14
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "2FA93FFD-6195-4B35-8BEE-D965921B5223"
+    },
+    {
+      "class": "oval",
+      "id": "895E00EC-84B1-4784-BBE9-F9994FA30C95"
+    },
+    {
+      "class": "oval",
+      "id": "8DC55020-7FE7-4B41-9DA2-3039ACDF784E"
+    },
+    {
+      "class": "oval",
+      "id": "81337E04-5509-496A-B478-616406AF9828"
+    },
+    {
+      "class": "oval",
+      "id": "BEC86C08-895A-4C2A-A995-1EEEFF508302"
+    },
+    {
+      "class": "oval",
+      "id": "B1DA08AE-9CED-4F52-9795-25104CB952E3"
+    },
+    {
+      "class": "oval",
+      "id": "B015E7C9-4905-41EC-BC70-7C0563BEE08B"
+    },
+    {
+      "class": "oval",
+      "id": "37B4825B-0CD2-4C47-A204-A1DFAA7795BB"
+    },
+    {
+      "class": "oval",
+      "id": "A8CD3F37-3DCB-429C-9883-4E200704FF94"
+    },
+    {
+      "class": "oval",
+      "id": "5B203ED2-923F-4A73-8B82-30FAC56869F7"
+    },
+    {
+      "class": "oval",
+      "id": "41192280-2FF1-4329-AD71-69E46E226509"
+    },
+    {
+      "class": "oval",
+      "id": "51AA1F87-330A-4D1F-86A3-125C58297716"
+    },
+    {
+      "class": "oval",
+      "id": "3696BD53-F9D7-44F8-9DF9-4837178BED81"
+    },
+    {
+      "class": "oval",
+      "id": "5F6D1D01-38D4-461F-9AF6-745C684B4644"
+    },
+    {
+      "class": "oval",
+      "id": "76C4A720-0A82-423C-9517-AE94D3DC4BC6"
+    },
+    {
+      "class": "oval",
+      "id": "ABCD15E9-F5DB-49FF-85FC-CB1734E72D73"
+    },
+    {
+      "class": "oval",
+      "id": "C3A2853A-1374-4641-BDB3-20FF6D297545"
+    },
+    {
+      "class": "oval",
+      "id": "5D51FB17-4B37-43C2-9367-581D7C69121F"
+    }
+  ],
+  "name": "Keypad",
+  "nameIsFixed": true,
+  "originalObjectID": "3F0AD0E6-039E-4939-AEC1-6E70E3FD0AE1",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "37E75891-06A1-471D-879B-E88016BAAB7B",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5725490196078431,
+          "green": 0.5725490196078431,
+          "red": 0.5725490196078431
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "8928312C-7E02-40C4-A6C7-EE652F9AE028",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

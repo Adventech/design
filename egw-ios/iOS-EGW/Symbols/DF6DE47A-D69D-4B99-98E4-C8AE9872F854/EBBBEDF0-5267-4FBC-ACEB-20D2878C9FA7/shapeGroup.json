@@ -1,0 +1,73 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "EBBBEDF0-5267-4FBC-ACEB-20D2878C9FA7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 35,
+    "width": 35,
+    "x": 573,
+    "y": 64
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "45757EAE-9861-46B0-8F2F-C059E647EA6C"
+    },
+    {
+      "class": "rectangle",
+      "id": "1C8C8B7B-E791-4C0B-B21C-F60548F491E6"
+    }
+  ],
+  "name": "Icons / Plus",
+  "nameIsFixed": true,
+  "originalObjectID": "EBBBEDF0-5267-4FBC-ACEB-20D2878C9FA7",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0184143A-51B9-4D3D-ABA8-20EC644F6D1E",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.47843137383461,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "43EF4A49-9813-41A4-95D7-D4A2F8610BC6",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

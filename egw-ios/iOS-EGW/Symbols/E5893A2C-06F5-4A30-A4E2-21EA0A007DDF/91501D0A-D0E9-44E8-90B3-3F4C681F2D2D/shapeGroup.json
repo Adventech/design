@@ -1,0 +1,85 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "91501D0A-D0E9-44E8-90B3-3F4C681F2D2D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 28,
+    "width": 62,
+    "x": 545,
+    "y": 25
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C85D4189-10AA-4CA9-8DA5-E10880CBCC55"
+    },
+    {
+      "class": "oval",
+      "id": "255F56B1-D45F-4F45-B305-6FD13116CCE1"
+    },
+    {
+      "class": "oval",
+      "id": "1E56ED16-BC61-46BC-8F5D-3252F0E8DBBA"
+    },
+    {
+      "class": "shapePath",
+      "id": "03438E95-B250-448F-A1A5-21F213C67EB3"
+    },
+    {
+      "class": "shapePath",
+      "id": "443FE892-C0DC-4825-BBC5-3A66E61AD15E"
+    }
+  ],
+  "name": "Tape Loop",
+  "nameIsFixed": true,
+  "originalObjectID": "91501D0A-D0E9-44E8-90B3-3F4C681F2D2D",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "149D7A2B-8A19-460C-99B6-5C7D208D0A87",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5725490196078431,
+          "green": 0.5725490196078431,
+          "red": 0.5725490196078431
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "8928312C-7E02-40C4-A6C7-EE652F9AE028",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

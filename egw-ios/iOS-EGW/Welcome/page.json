@@ -1,0 +1,95 @@
+{
+  "_class": "page",
+  "do_objectID": "62F4B037-D8F0-4F8E-A6DD-ABB6B3C42FB3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -311,
+    "do_objectID": "EF557906-AE73-4F2C-9F36-40EBF334E2A8",
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "C6118DA8-288C-4265-B257-BDB6DF62F7E7"
+    },
+    {
+      "class": "artboard",
+      "id": "C924AD6B-D7E5-45D3-9E3D-1C01902BE3E7"
+    },
+    {
+      "class": "artboard",
+      "id": "346E64E8-BB02-43B4-99FB-E0DDEAF8A5BC"
+    },
+    {
+      "class": "artboard",
+      "id": "D01FC83D-07C1-4395-8391-A714FCE04728"
+    },
+    {
+      "class": "artboard",
+      "id": "9069A17D-6877-48E4-B800-80994B9A4E18"
+    },
+    {
+      "class": "artboard",
+      "id": "B0BB9FB0-DB28-45F4-97A0-B6E6A63D71CF"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 80,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 44,
+    "gutterWidth": 0,
+    "guttersOutside": false,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 8,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 640
+  },
+  "name": "Welcome",
+  "nameIsFixed": false,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -189,
+    "do_objectID": "36F93014-6A92-4C02-BD6D-C16D67A23009",
+    "guides": [
+    ]
+  }
+}

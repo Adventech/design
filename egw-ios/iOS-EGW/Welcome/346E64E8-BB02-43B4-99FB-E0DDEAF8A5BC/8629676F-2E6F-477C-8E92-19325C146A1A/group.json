@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "8629676F-2E6F-477C-8E92-19325C146A1A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "81570217-ECD4-4650-992C-BAA3DE09BF06",
+    "height": 70,
+    "width": 440,
+    "x": 100,
+    "y": 890
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "99580BB6-64BF-4122-9B06-BBE63566C4C9"
+    },
+    {
+      "class": "text",
+      "id": "DCDCF62C-E0CF-4EB3-912F-E12E19E91166"
+    }
+  ],
+  "name": "Rectangle 50 + Add to Reading List",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

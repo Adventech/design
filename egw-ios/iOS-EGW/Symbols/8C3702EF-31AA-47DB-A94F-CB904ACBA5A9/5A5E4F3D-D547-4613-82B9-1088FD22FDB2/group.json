@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "5A5E4F3D-D547-4613-82B9-1088FD22FDB2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 129,
+    "width": 640,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C0C9560E-E671-4ECF-9C6E-70214952DAEE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "309A6CE7-F63C-4996-BEAD-2F321F902473"
+    }
+  ],
+  "name": "Menubar Background",
+  "nameIsFixed": true,
+  "originalObjectID": "5A5E4F3D-D547-4613-82B9-1088FD22FDB2",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

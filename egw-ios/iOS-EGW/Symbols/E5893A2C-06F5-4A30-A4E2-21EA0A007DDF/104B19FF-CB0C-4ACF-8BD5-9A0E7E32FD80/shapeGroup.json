@@ -1,0 +1,73 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "104B19FF-CB0C-4ACF-8BD5-9A0E7E32FD80",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 50,
+    "x": 297,
+    "y": 12
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "8D93AAA1-AB7D-4632-A6C3-027D1895C031"
+    },
+    {
+      "class": "shapePath",
+      "id": "6FB59E4E-F6E3-4411-A311-93EA74B1A319"
+    }
+  ],
+  "name": "contacts",
+  "nameIsFixed": true,
+  "originalObjectID": "104B19FF-CB0C-4ACF-8BD5-9A0E7E32FD80",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "22E068F5-24F9-42B1-9630-210DD1E726CB",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.47843137383461,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "43EF4A49-9813-41A4-95D7-D4A2F8610BC6",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

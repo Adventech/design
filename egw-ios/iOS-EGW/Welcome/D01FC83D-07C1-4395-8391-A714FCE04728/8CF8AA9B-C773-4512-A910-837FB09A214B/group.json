@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "8CF8AA9B-C773-4512-A910-837FB09A214B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "01A6F0F8-FF23-456E-9CBA-E3A4153EFFA2",
+    "height": 129,
+    "width": 640,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CC0340B0-4DD9-4E9F-9FE2-270A621EC101"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "72CDAF63-CB31-433F-88FC-920AAA7FDFB9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "66171C96-857F-4127-8CCA-894B8477C643"
+    },
+    {
+      "class": "text",
+      "id": "592993D0-2A9F-4CCF-AE5D-8D15079A1A3F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "555E13EF-10FB-4509-86AC-3D1FC405C436"
+    }
+  ],
+  "name": "Navigation / Menubar 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
