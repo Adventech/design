@@ -16,13 +16,13 @@
     "_class": "rect",
     "constrainProportions": true,
     "height": 475,
-    "width": 267,
+    "width": 267.0539730134932,
     "x": 21.5,
     "y": 78
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/71cb5861172ae5b45ab09caaff323f6f449bcb19",
+    "_ref": "images/ee1dec3dbbe4f5a116ca767527e497f14b851713",
     "_ref_class": "MSImageData"
   },
   "isFlippedHorizontal": false,
@@ -32,8 +32,6 @@
   "layerListExpandedType": 0,
   "name": "IMG_5213",
   "nameIsFixed": false,
-  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
-  "nineSliceScale": "{0, 0}",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

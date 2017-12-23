@@ -41,7 +41,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -82,11 +82,7 @@
     },
     {
       "class": "group",
-      "id": "0F51DD11-9430-403C-A1CD-79A2F13D602C"
-    },
-    {
-      "class": "group",
-      "id": "5821F62B-73C8-4E57-A00A-8437D48D41E4"
+      "id": "30E3328C-7C59-455B-8204-EC0A60084326"
     },
     {
       "class": "group",
@@ -186,7 +182,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,

@@ -30,6 +30,18 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Team-member",
   "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4F23C80B-7496-4902-854F-F01352348E33_stringValue",
+      "value": "Imasaru"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F2E863BD-7FE4-448F-80AE-38ECC564015B_stringValue",
+      "value": "Language contributor"
+    }
+  ],
   "overrides": {
     "4F23C80B-7496-4902-854F-F01352348E33": "Imasaru",
     "F2E863BD-7FE4-448F-80AE-38ECC564015B": "Language contributor"
@@ -37,6 +49,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

@@ -5,6 +5,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -15,14 +24,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 475,
-    "width": 267,
-    "x": 21.5,
-    "y": 78
+    "height": 472,
+    "width": 262,
+    "x": 23.5,
+    "y": 81
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/eaaf90a8296907b3f0bf44627e448dda7187bec6",
+    "_ref": "images/4ccc278e77566e7de197742b5f3e0934f4b1930c",
     "_ref_class": "MSImageData"
   },
   "isFlippedHorizontal": false,
@@ -32,8 +41,6 @@
   "layerListExpandedType": 0,
   "name": "IMG_5214",
   "nameIsFixed": false,
-  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
-  "nineSliceScale": "{0, 0}",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
