@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "8FDD9A4D-FB80-4D83-963A-0689665048E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 631,
+    "width": 310,
+    "x": 251,
+    "y": 627
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "338E0851-C0DF-4B3A-B088-3B3ECE77A4C9"
+    },
+    {
+      "class": "bitmap",
+      "id": "2BBAAAEF-08AF-430D-A08C-4DEF7A2C0B43"
+    }
+  ],
+  "name": "iPhone 1",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

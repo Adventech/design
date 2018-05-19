@@ -1,7 +1,7 @@
 {
   "_class": "bitmap",
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "4E51E768-B85B-465E-B236-E8AB9B1EACCC",
+  "do_objectID": "338E0851-C0DF-4B3A-B088-3B3ECE77A4C9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,14 +15,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 475,
-    "width": 267,
-    "x": 21.5,
-    "y": 78
+    "height": 631,
+    "width": 310,
+    "x": 0,
+    "y": 0
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/059c94cb9aa79c270f44d2d960415bccea572aa2",
+    "_ref": "images/f52cae231797e3f366ba201009b72b7bee4afebb",
     "_ref_class": "MSImageData"
   },
   "isFlippedHorizontal": false,
@@ -30,10 +30,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "IMG_5208",
+  "name": "iphone-7-frame-large_2x-2",
   "nameIsFixed": false,
-  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
-  "nineSliceScale": "{0, 0}",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "EB55837C-2059-4EBC-9C55-571E3B9F214D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 631,
+    "width": 310,
+    "x": 361,
+    "y": 627
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "BD9BF632-774B-430F-A06D-AC1ABD3EDEA9"
+    },
+    {
+      "class": "bitmap",
+      "id": "F1072594-30A4-4F06-83CF-42C6CD528F01"
+    }
+  ],
+  "name": "iPhone 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

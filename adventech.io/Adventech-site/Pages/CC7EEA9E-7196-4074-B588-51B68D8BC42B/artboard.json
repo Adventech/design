@@ -14,7 +14,7 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "png",
+        "fileFormat": "svg",
         "name": "@2x",
         "namingScheme": 0,
         "scale": 2,
@@ -41,7 +41,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -54,7 +54,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -82,15 +82,15 @@
     },
     {
       "class": "group",
-      "id": "0F51DD11-9430-403C-A1CD-79A2F13D602C"
-    },
-    {
-      "class": "group",
-      "id": "5821F62B-73C8-4E57-A00A-8437D48D41E4"
-    },
-    {
-      "class": "group",
       "id": "0C84E742-7C38-40ED-95E1-B05A71E4D817"
+    },
+    {
+      "class": "group",
+      "id": "EB55837C-2059-4EBC-9C55-571E3B9F214D"
+    },
+    {
+      "class": "group",
+      "id": "8FDD9A4D-FB80-4D83-963A-0689665048E4"
     },
     {
       "class": "group",
@@ -186,7 +186,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,

@@ -1,6 +1,7 @@
 {
-  "_class": "group",
-  "do_objectID": "5821F62B-73C8-4E57-A00A-8437D48D41E4",
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "F1072594-30A4-4F06-83CF-42C6CD528F01",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -10,31 +11,26 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 631,
-    "width": 310,
-    "x": 251,
-    "y": 617
+    "height": 475,
+    "width": 267,
+    "x": 21.5,
+    "y": 78
   },
-  "hasClickThrough": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/41a26f7c55d3d9f18fcd75df25ecec9a07cb344b",
+    "_ref_class": "MSImageData"
+  },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "bitmap",
-      "id": "03E7B428-B21F-4AAB-BEC6-041B1E166EFC"
-    },
-    {
-      "class": "bitmap",
-      "id": "4E51E768-B85B-465E-B236-E8AB9B1EACCC"
-    }
-  ],
-  "name": "Group 2",
+  "name": "iPhone6-02Lesson-d41d8cd98f00b204e9800998ecf8427e",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -30,6 +30,18 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Team-member",
   "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1E9E5FF5-8C2D-434A-8814-A7640A30E82B_stringValue",
+      "value": "Jared Martin"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9E7B35DA-CF4D-41A8-BBAF-44702460E557_stringValue",
+      "value": "Language contributor"
+    }
+  ],
   "overrides": {
     "1E9E5FF5-8C2D-434A-8814-A7640A30E82B": "Jared Martin",
     "9E7B35DA-CF4D-41A8-BBAF-44702460E557": "Language contributor"
@@ -37,6 +49,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

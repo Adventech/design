@@ -1,7 +1,7 @@
 {
   "_class": "bitmap",
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "C9520FE2-121F-4766-9E06-20AD77B9F3BB",
+  "do_objectID": "2BBAAAEF-08AF-430D-A08C-4DEF7A2C0B43",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,15 +14,15 @@
   "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 631,
-    "width": 310,
-    "x": 0,
-    "y": 0
+    "constrainProportions": false,
+    "height": 475,
+    "width": 267,
+    "x": 21.5,
+    "y": 78
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/f52cae231797e3f366ba201009b72b7bee4afebb",
+    "_ref": "images/2e8cb81d3714458a671d79ce4baf7cc9035b5a76",
     "_ref_class": "MSImageData"
   },
   "isFlippedHorizontal": false,
@@ -30,10 +30,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "iphone-7-frame-large_2x",
+  "name": "iPhone6-02Lesson-d41d8cd98f00b204e9800998ecf8427e",
   "nameIsFixed": false,
-  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
-  "nineSliceScale": "{0, 0}",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

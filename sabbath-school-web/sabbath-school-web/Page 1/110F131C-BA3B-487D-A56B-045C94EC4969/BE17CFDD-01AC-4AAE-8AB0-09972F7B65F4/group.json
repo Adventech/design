@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "0F51DD11-9430-403C-A1CD-79A2F13D602C",
+  "do_objectID": "BE17CFDD-01AC-4AAE-8AB0-09972F7B65F4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 631,
-    "width": 310,
-    "x": 362,
-    "y": 617
+    "height": 36,
+    "width": 231,
+    "x": 275,
+    "y": 41
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -26,15 +26,15 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "C9520FE2-121F-4766-9E06-20AD77B9F3BB"
+      "class": "text",
+      "id": "AF733098-32E4-4B62-89B1-C4E6262D8316"
     },
     {
-      "class": "bitmap",
-      "id": "DC898623-ECE6-4B84-BEC8-97F9751F70D8"
+      "class": "shapeGroup",
+      "id": "0406F955-E71D-4419-892E-C6F1DFB0D8C6"
     }
   ],
-  "name": "Group",
+  "name": "Group 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -42,6 +42,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.6000000238418579
+    },
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0

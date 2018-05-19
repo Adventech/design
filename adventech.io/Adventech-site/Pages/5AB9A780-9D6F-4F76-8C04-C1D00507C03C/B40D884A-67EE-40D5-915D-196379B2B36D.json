@@ -30,6 +30,18 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Team-member",
   "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "54AE995B-8C52-48AC-B75B-C78644ACD26C_stringValue",
+      "value": "Carlos Lopez"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "733BB5D3-8E96-4635-AB80-DE2A6287BC40_stringValue",
+      "value": "Language contributor"
+    }
+  ],
   "overrides": {
     "54AE995B-8C52-48AC-B75B-C78644ACD26C": "Carlos Lopez",
     "733BB5D3-8E96-4635-AB80-DE2A6287BC40": "Language contributor"
@@ -37,6 +49,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
